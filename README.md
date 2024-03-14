@@ -1,6 +1,6 @@
-Welcome to this Virtual Bank Management System!
+One of my fun projects! Virtual Bank Management System.
 
-<img width="1440" alt="git" src="https://github.com/rashres/Bank-Management-System/assets/161265688/b9943ae7-f3c8-42b5-8fbf-008c0dcd7d17">
+<img width="1440" alt="git2" src="https://github.com/rashres/Bank-Management-System/assets/161265688/e81b1b53-05af-4e11-8b2b-1165d65a24c8">
 
 Used Java and MySQL this system provides a user-friendly platform for managing accounts, transactions, and customer data.
 Utilized the Spring Framework for application development and data protection. 
